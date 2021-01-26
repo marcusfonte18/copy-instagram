@@ -132,7 +132,7 @@ body {
 
 /* media queries*/
 
-@media (max-widht:1024px) {
+@media (max-width:1024px) {
   body {
     background: #ffffff;
   }
@@ -142,9 +142,12 @@ body {
   }
   
   .instagram-phone {
-    width: 900px;
+    display: none;
   }
 
+  .instagram-continue {
+    width: 100%;
+  }
   .group {
     border: 1px solid transparent;
   }
