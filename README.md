@@ -1,9 +1,8 @@
 <h1 align=center >Copy Instagram</h1>
 
-## <img src="https://user-images.githubusercontent.com/65238795/105999157-22c5ac00-608c-11eb-9d5d-be94458c87e5.PNG" alt="copy-instagram" style="zoom:150%;" />
+## ![copy-instagram](https://user-images.githubusercontent.com/65238795/106009175-d338ad80-6096-11eb-87d6-0397a56ec453.PNG)
 
-<center>![responsivo-instagram](https://user-images.githubusercontent.com/65238795/106006392-eeee8480-6093-11eb-953a-203e082cd9b6.PNG)
-
+<img align=center src="https://user-images.githubusercontent.com/65238795/106009181-d5027100-6096-11eb-9119-1ffb36e23a56.PNG" alt="instagram">
 
 ## :rocket: Tecnologias
 
