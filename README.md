@@ -2,7 +2,8 @@
 
 ## ![copy-instagram](https://user-images.githubusercontent.com/65238795/106009175-d338ad80-6096-11eb-87d6-0397a56ec453.PNG)
 
-<img align=center src="https://user-images.githubusercontent.com/65238795/106009181-d5027100-6096-11eb-9119-1ffb36e23a56.PNG" alt="instagram">
+<p align=center>
+<img src="https://user-images.githubusercontent.com/65238795/106009181-d5027100-6096-11eb-9119-1ffb36e23a56.PNG" alt="instagram"></p>
 
 ## :rocket: Tecnologias
 
