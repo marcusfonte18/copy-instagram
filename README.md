@@ -9,7 +9,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
  - HTML5
- - CSS5
+ - CSS3
  - Display Flex
  - Responsivo  
 
